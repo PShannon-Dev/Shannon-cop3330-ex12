@@ -9,5 +9,8 @@
         <module name="SimpleInterest_ex12" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SimpleInterest_ex12" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
